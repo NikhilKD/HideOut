@@ -1,0 +1,13 @@
+.background-image img {
+    width:100vw;
+    height:100vh;
+    display:flex;
+    z-index: -1000;
+
+}
+h2{
+    color: #ffff;
+    display:flex;
+    position:absolute;
+    top: 10%;
+}
